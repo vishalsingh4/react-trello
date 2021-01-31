@@ -12,4 +12,4 @@ Trello clone app using react, redux rematch and basic unit test cases.
     - It also contains screenshot of unit test cases.
 
 # Deployment
-    - App is deployed to heroku (URL: ).
+    - App is deployed to heroku (URL: https://warm-earth-35711.herokuapp.com/).
